@@ -8,7 +8,6 @@
 # pip install pygame
 
 import pygame
-import funtion
 
 # Color pattle
 
